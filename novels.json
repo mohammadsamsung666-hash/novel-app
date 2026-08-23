@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "استاد مسیحی",
+    "author": "نام نویسنده",
+    "genre": "عاشقانه",
+    "description": "توضیحات رمان استاد مسیحی",
+    "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/romance/%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%20%D9%85%D8%B3%DB%8C%D8%AD%DB%8C.pdf"
+  }
+]
