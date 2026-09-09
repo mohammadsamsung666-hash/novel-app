@@ -1,5 +1,5 @@
 [
- {
+  {
     "id": 190,
     "title": "افسانه زنان جنگجو",
     "author": "متفرقه",
@@ -16,5 +16,14 @@
     "description": "توضیحات مربوط به کتاب سهم من",
     "imageResource": "sahmeman",
     "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/New/sahmeman.pdf"
+  },
+  {
+    "id": 192,
+    "title": "بوف کور",
+    "author": "صادق هدایت",
+    "category": "رمان چاپ شده",
+    "description": "توضیحات مربوط به کتاب بوف کور",
+    "imageResource": "boof_koor",
+    "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/New/boof_koor.pdf"
   }
 ]
