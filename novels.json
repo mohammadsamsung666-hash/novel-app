@@ -1,10 +1,26 @@
 [
   {
-    "id": 1,
-    "title": "استاد مسیحی",
+    "id": "new_1",
+    "title": "بوف کور",
+    "author": "صادق هدایت",
+    "category": "هیجانی",
+    "description": "رمان معروف و شاهکار بوف کور...",
+    "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/New/Blind-Owl-393099ketabha.org.pdf"
+  },
+  {
+    "id": "new_2",
+    "title": "افسانه زنان جنگجو",
     "author": "نام نویسنده",
-    "genre": "عاشقانه",
-    "description": "توضیحات رمان استاد مسیحی",
-    "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/romance/%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%20%D9%85%D8%B3%DB%8C%D8%AD%DB%8C.pdf"
+    "category": "اجتماعی",
+    "description": "توضیحات مربوط به کتاب افسانه زنان جنگجو...",
+    "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/New/afsane_zana_jangjoo1.pdf"
+  },
+  {
+    "id": "new_3",
+    "title": "سهم من",
+    "author": "پوره چیستا",
+    "category": "عاشقانه",
+    "description": "توضیحات مربوط به کتاب سهم من...",
+    "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/New/sahmeman.pdf"
   }
 ]
