@@ -1,26 +1,20 @@
 [
-  {
-    "id": "new_1",
-    "title": "بوف کور",
-    "author": "صادق هدایت",
-    "category": "هیجانی",
-    "description": "رمان معروف و شاهکار بوف کور...",
-    "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/New/Blind-Owl-393099ketabha.org.pdf"
-  },
-  {
-    "id": "new_2",
+ {
+    "id": 190,
     "title": "افسانه زنان جنگجو",
-    "author": "نام نویسنده",
-    "category": "اجتماعی",
-    "description": "توضیحات مربوط به کتاب افسانه زنان جنگجو...",
+    "author": "متفرقه",
+    "category": "رمان چاپ شده",
+    "description": "توضیحات مربوط به کتاب افسانه زنان جنگجو",
+    "imageResource": "afsane_zana",
     "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/New/afsane_zana_jangjoo1.pdf"
   },
   {
-    "id": "new_3",
+    "id": 191,
     "title": "سهم من",
     "author": "پوره چیستا",
-    "category": "عاشقانه",
-    "description": "توضیحات مربوط به کتاب سهم من...",
+    "category": "رمان چاپ شده",
+    "description": "توضیحات مربوط به کتاب سهم من",
+    "imageResource": "sahmeman",
     "pdfUrl": "https://raw.githubusercontent.com/mohammadsamsung666-hash/novel-app/main/New/sahmeman.pdf"
   }
 ]
